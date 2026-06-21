@@ -1,0 +1,7 @@
+title,dueDate,category,completed
+Finish quarterly report,2026-06-25,Work,false
+Buy groceries,2026-06-22,Personal,false
+Renew passport,2026-07-01,Urgent,false
+Call dentist,,Personal,false
+Submit tax documents,2026-06-30,Urgent,true
+Read a book,,Personal,false
